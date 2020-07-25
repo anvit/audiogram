@@ -29,14 +29,30 @@
     "waveColor": "#00b4ff"
   },
   "Background image with top right text": {
+    "pattern": "bars",
     "captionAlign": "right",
     "captionTop": 60,
     "captionRight": 1220,
     "captionLeft": 640,
-    "backgroundImage": "subway.jpg",
-    "foregroundColor": "#fc0",
+    "backgroundImage": "wtl-banner.jpg",
+    "foregroundColor": "#faf8cb",
+    "waveColor": "#7b7bb0",
     "waveBottom": 660,
     "waveTop": 320
+  },
+  "Square BG Image with top right text": {
+    "width": 1280,
+    "height": 1280,
+    "pattern": "bars",
+    "captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "wtl2.png",
+    "foregroundColor": "#faf8cb",
+    "waveColor": "#f9f9cd",
+    "waveBottom": 1200,
+    "waveTop": 900
   },
   "Bars": {
     "pattern": "bars",
