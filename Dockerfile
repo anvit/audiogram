@@ -15,6 +15,7 @@ USER audiogram
 WORKDIR /home/audiogram
 
 # Clone repo
+ARG CACHEBUST=1
 RUN git clone https://github.com/anvit/audiogram.git
 WORKDIR /home/audiogram/audiogram
 

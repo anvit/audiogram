@@ -28,6 +28,47 @@
     "captionColor": "#515151",
     "waveColor": "#00b4ff"
   },
+  "WTL Banner Logo with socials": {
+    "pattern": "bars",
+    "captionAlign": "right",
+    "captionTop": 30,
+    "captionRight": 1220,
+    "captionLeft": 440,
+    "backgroundImage": "wtl-banner2.png",
+    "foregroundColor": "#faf8cb",
+    "maxDuration": 900,
+    "waveColor": "#faf9cd",
+    "waveBottom": 660,
+    "waveTop": 500
+  },
+  "WTL Bitly Banner Logo with socials": {
+    "pattern": "bars",
+    "captionAlign": "right",
+    "captionTop": 30,
+    "captionRight": 1220,
+    "captionLeft": 440,
+    "backgroundImage": "wtl-banner3.png",
+    "foregroundColor": "#faf8cb",
+    "maxDuration": 900,
+    "waveColor": "#faf9cd",
+    "waveBottom": 660,
+    "waveTop": 500
+  },
+  "WTL Bitly Square logo with socials": {
+    "width": 1280,
+    "height": 1280,
+    "pattern": "bars",
+    "captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "wtl3.png",
+    "foregroundColor": "#faf8cb",
+    "maxDuration": 900,
+    "waveColor": "#f9f9cd",
+    "waveBottom": 1200,
+    "waveTop": 900
+  },
   "Background image with top right text": {
     "pattern": "bars",
     "captionAlign": "right",
