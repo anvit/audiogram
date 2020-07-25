@@ -36,6 +36,7 @@
     "captionLeft": 640,
     "backgroundImage": "wtl-banner.jpg",
     "foregroundColor": "#faf8cb",
+    "maxDuration": 900,
     "waveColor": "#7b7bb0",
     "waveBottom": 660,
     "waveTop": 320
@@ -50,6 +51,7 @@
     "captionLeft": 640,
     "backgroundImage": "wtl2.png",
     "foregroundColor": "#faf8cb",
+    "maxDuration": 900,
     "waveColor": "#f9f9cd",
     "waveBottom": 1200,
     "waveTop": 900
