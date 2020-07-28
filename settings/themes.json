@@ -3,7 +3,7 @@
     "width": 1280,
     "height": 720,
     "framesPerSecond": 20,
-    "maxDuration": 900,
+    "maxDuration": 6000,
     "samplesPerFrame": 128,
     "pattern": "wave",
     "waveTop": 150,
@@ -28,26 +28,26 @@
     "captionColor": "#515151",
     "waveColor": "#00b4ff"
   },
-  "WTL Banner Logo with socials": {
+  "WTL Banner Logo 4k": {
     "pattern": "bars",
     "captionAlign": "right",
     "captionTop": 30,
     "captionRight": 1220,
     "captionLeft": 440,
-    "backgroundImage": "wtl-banner2.png",
+    "backgroundImage": "wtl-banner-4k.png",
     "foregroundColor": "#faf8cb",
     "maxDuration": 900,
     "waveColor": "#faf9cd",
     "waveBottom": 660,
     "waveTop": 500
   },
-  "WTL Bitly Banner Logo with socials": {
+  "WTL Banner Logo 1080p": {
     "pattern": "bars",
     "captionAlign": "right",
     "captionTop": 30,
     "captionRight": 1220,
     "captionLeft": 440,
-    "backgroundImage": "wtl-banner3.png",
+    "backgroundImage": "wtl-banner-1080p.png",
     "foregroundColor": "#faf8cb",
     "maxDuration": 900,
     "waveColor": "#faf9cd",
@@ -68,6 +68,32 @@
     "waveColor": "#f9f9cd",
     "waveBottom": 1200,
     "waveTop": 900
+  },
+  "WTL Banner Logo Max res with socials": {
+    "pattern": "bars",
+    "captionAlign": "right",
+    "captionTop": 30,
+    "captionRight": 1220,
+    "captionLeft": 440,
+    "backgroundImage": "wtl-banner2.png",
+    "foregroundColor": "#faf8cb",
+    "maxDuration": 900,
+    "waveColor": "#faf9cd",
+    "waveBottom": 660,
+    "waveTop": 500
+  },
+  "WTL Bitly Banner Logo Max res with socials": {
+    "pattern": "bars",
+    "captionAlign": "right",
+    "captionTop": 30,
+    "captionRight": 1220,
+    "captionLeft": 440,
+    "backgroundImage": "wtl-banner3.png",
+    "foregroundColor": "#faf8cb",
+    "maxDuration": 900,
+    "waveColor": "#faf9cd",
+    "waveBottom": 660,
+    "waveTop": 500
   },
   "Background image with top right text": {
     "pattern": "bars",
